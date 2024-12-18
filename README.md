@@ -1,19 +1,18 @@
-# Hi there! 👋 I'm Mustafa Kupik
+# Mustafa Kupik
 
-Welcome to my GitHub profile! I'm a passionate developer who loves exploring and creating with modern technologies. Here's a bit about me:
+Welcome to my GitHub profile. Here, you'll find projects that reflect curiosity and a commitment to creating reliable, meaningful solutions. Kupik0? It’s been my handle for years, and it has grown on me.
 
 ---
 
 ## 🌟 About Me
 
-- 💻 **Name**: Mustafa Kupik
-- 🌍 **GitHub Username**: Kupik0
-- 🔭 **Currently Working On**: Crafting innovative solutions with web, mobile, and AI technologies
-- 🌱 **Always Learning**: Exploring advanced features in Blazor, React Native, and AI/ML
+- 💻 **Who I Am**: A developer solving problems with code.
+- 🌍 **GitHub Handle**: Kupik0
+- 🛠️ **Current Focus**: Web, mobile, and AI technologies.
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Technologies I Work With
 
 ### Programming Languages:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -29,14 +28,14 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring and
 ### Mobile Development:
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Other Technologies:
+### Other Tools:
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
 
@@ -44,7 +43,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kupik0&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kupik0&theme=radical)
 
 </div>
 
@@ -52,26 +50,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring and
 
 ## 🌐 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kupik0)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kupik0)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafakupik)
 
----
 
-## 💡 Fun Fact
 
-🌌 "The universe is written in code. Let's decode it together!"
-
----
-
-## 🛠️ Interactivity on My GitHub
-
-- **Dynamic Visitors Badge**
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kupik0)
-
-- **Activity Graph** (powered by [GitHub Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph))
-  
-  ![Mustafa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kupik0&theme=radical)
-
----
-
-Thank you for visiting my profile! Let's connect and create amazing things together! ✨
+Thanks for stopping by. Let’s build something impactful together.
