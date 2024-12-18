@@ -1,3 +1,7 @@
+Paylaş
+
+
+Şunu dedin:
 # Mustafa Kupik
 
 Welcome to my GitHub profile. Here, you'll find projects that reflect curiosity and a commitment to creating reliable, meaningful solutions. Kupik0? It’s been my handle for years, and it has grown on me.
@@ -38,20 +42,20 @@ Welcome to my GitHub profile. Here, you'll find projects that reflect curiosity 
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kupik0&show_icons=true&theme=dark&count_private=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kupik0&layout=compact&theme=dark&hide_title=true" />
+
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kupik0&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kupik0&layout=compact&theme=radical)
+
+
 </div>
 
 ---
 
 ## 🌐 Let's Connect
 
-<div align="center">
-  <a href="https://linkedin.com/in/mustafakupik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafakupik)
 
----
 
-Thanks for stopping by. Let’s build something impactful together.
+
+Thanks for stopping by. 
