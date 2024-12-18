@@ -1,7 +1,4 @@
-Paylaş
 
-
-Şunu dedin:
 # Mustafa Kupik
 
 Welcome to my GitHub profile. Here, you'll find projects that reflect curiosity and a commitment to creating reliable, meaningful solutions. Kupik0? It’s been my handle for years, and it has grown on me.
