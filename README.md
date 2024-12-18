@@ -38,20 +38,20 @@ Welcome to my GitHub profile. Here, you'll find projects that reflect curiosity 
 ## 📊 GitHub Insights
 
 <div align="center">
-
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kupik0&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kupik0&layout=compact&theme=radical)
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Kupik0&show_icons=true&theme=dark&count_private=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kupik0&layout=compact&theme=dark&hide_title=true" />
 </div>
 
 ---
 
 ## 🌐 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafakupik)
+<div align="center">
+  <a href="https://linkedin.com/in/mustafakupik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-
+---
 
 Thanks for stopping by. Let’s build something impactful together.
