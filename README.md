@@ -8,8 +8,7 @@ Welcome to my GitHub profile. Here, you'll find projects that reflect curiosity 
 ## 🌟 About Me
 
 - 💻 **Who I Am**: A developer solving problems with code.
-- 🌍 **GitHub Handle**: Kupik0
-- 🛠️ **Current Focus**: Web, mobile, and AI technologies.
+- 🛠️ **Current Focus**: ERP's ORM's and AI.
 
 ---
 
